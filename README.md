@@ -10,4 +10,4 @@ KryptoJobs2Go is an application that its customers can use to find fintech profe
 ![An image shows a wallet with bitcoin.](Images/KryptoJobs2Go_App.png)
 
 ### Sample of Ganache Transaction  
-![An image shows a wallet with bitcoin.](Images/KryptoJobs2Go_App.png)
+![An image shows a wallet with bitcoin.](Images/ganache_trx.png)
